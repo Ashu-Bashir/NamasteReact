@@ -4,7 +4,9 @@
   "description": "This is the course of Namaste React",
   "git": "https://github.com/Ashu-Bashir/NamasteReact.git",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel Episode3-Foundation-of-React/index.html",  
+    "build": "parcel build Episode3-Foundation-of-React/index.html"
   },
   "repository": {
     "type": "git",
@@ -13,6 +15,8 @@
   "author": "Ashu Bashir",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "babel-plugin-transform-remove-console": "^6.9.4",
     "parcel": "^2.11.0",
     "process": "^0.11.10"
   },
