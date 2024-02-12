@@ -5,8 +5,8 @@
   "git": "https://github.com/Ashu-Bashir/NamasteReact.git",
   "scripts": {
     "test": "jest",
-    "start": "parcel Episode3-Foundation-of-React/index.html",  
-    "build": "parcel build Episode3-Foundation-of-React/index.html"
+    "start": "parcel Episode4-TalkIsCheap-ShowMeCode/index.html",  
+    "build": "parcel build Episode4-TalkIsCheap-ShowMeCode/index.html"
   },
   "repository": {
     "type": "git",
